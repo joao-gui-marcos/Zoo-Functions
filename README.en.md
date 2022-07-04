@@ -20,7 +20,7 @@
     The sequence of requirements for this project has been arranged in such a way as to provide the experience of understanding in practice how test-driven development helps ensure quality code. For this, I implemented tests for existing functions, realizing the use cases of your application and ensuring that it is working correctly! 🚀
 
 <details>
-<summary><strong>🏗 Estrutura do projeto</strong></summary><br />
+<summary><strong>🏗  Estrutura do projeto </strong></summary><br />
 
 In the root folder of the project, we have the folders`src`,`test`,`evaluator`e`data`.
 
@@ -155,7 +155,7 @@ to paste`evaluator`has the automated tests that evaluate the project.
 
 -   Make the function`getSpeciesByIds`can receive multiple parameters;
 
--   Return an empty array if the function does not receive a`id`;
+-   Return an empty array if the function does not receive one`id`;
 
 -   Return the following file information`data`:
 
@@ -729,7 +729,7 @@ You can read more about[constructor function**Error**, at this link.](https://de
 
 -   If the options object has the property`name`, returns only the corresponding person;
 
--   The options object's name property also works using the second name;
+-   The name property of the options object also works using the second name;
 
 -   If the options object has the property`id`, returns only the corresponding person;
 
