@@ -20,7 +20,7 @@
   A sequência dos requisitos desse projeto foi disposta de forma a proporcionar a experiência de entender na prática como o desenvolvimento orientado a testes ajuda a garantir um código de qualidade. Para isso, implementei testes para funções já existentes, percebendo os casos de uso da sua aplicação e garantindo que ela está funcionando da maneira correta! 🚀 
 
 <details>
-<summary><strong>🏗 Estrutura do projeto</strong></summary><br />
+<summary><strong>🏗  Estrutura do projeto </strong></summary><br />
 
 Na pasta raiz do projeto, temos as pastas `src`, `test`, `evaluator` e `data`.
 
